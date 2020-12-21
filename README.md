@@ -1,4 +1,4 @@
 # testingkelasa
-ini editan ke 1
-INI EDITAN KEDU
+Merubah ini editan ke 1
+INI Bukan EDITAN
 
